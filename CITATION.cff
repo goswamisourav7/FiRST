@@ -20,3 +20,8 @@ authors:
     given-names: "Shyamprasad"
     affiliation: "Department of Mechanical Engineering, Indian Institute of Technology Bombay, Mumbai 400076, Maharashtra, India"
     orcid: "https://orcid.org/0000-0002-0184-8383"
+
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.24367800"
+    description: "Permanent Zenodo archive for FiRST v1.0.0"

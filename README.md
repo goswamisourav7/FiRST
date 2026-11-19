@@ -5,6 +5,7 @@
 [![MTEX](https://img.shields.io/badge/MTEX-6.0%2B-green.svg)](https://mtex-toolbox.github.io/)
 [![Platform](https://img.shields.io/badge/Platform-Linux%20HPC%20%7C%20Windows%20x64-lightgrey.svg)]()
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![DOI](https://zenodo.org/badge/1457735093.svg)](https://doi.org/10.5281/zenodo.24367800)
 
 **FiRST** (*Five-fold Rotational Symmetry Detection Tool*) is an automated, high-throughput crystallographic analysis pipeline designed to detect, verify, and visualize five-fold $\Sigma3$ twin clusters—often associated with icosahedral short-range order (ISRO)-mediated nucleation or growth accidents—in Face-Centered Cubic (FCC) microstructures from Electron Backscatter Diffraction (EBSD) datasets.
 
@@ -267,6 +268,19 @@ If you use **FiRST** in your research, please cite the software repository (see 
 
 * **Software:** Goswami, S., Mishra, S. K., and Karagadde, S. (2026). *FiRST: Five-fold Rotational Symmetry Detection Tool* (Version 1.0.0) [Computer software]. GitHub. https://github.com/goswamisourav7/FiRST
 * **Manuscript:** Goswami, S., Mishra, S. K., and Karagadde, S. (2026). *Automated detection of five-fold rotational symmetry in polycrystalline materials*. Manuscript submitted for publication.
+
+
+
+```bibtex
+@software{goswami_2026_first,
+  author  = {Goswami, Sourav and Mishra, Sushil Kumar and Karagadde, Shyamprasad},
+  title   = {{FiRST: Five-fold Rotational Symmetry Detection Tool}},
+  version = {1.0.0},
+  year    = {2026},
+  url     = {https://github.com/goswamisourav7/FiRST},
+  doi     = {https://doi.org/10.5281/zenodo.24367801}
+}
+```
 
 Please also cite the [MTEX Toolbox](https://mtex-toolbox.github.io/publications) when using the MATLAB pre-processing and plotting modules:
 * Bachmann, F., Hielscher, R., & Schaeben, H. (2010). *Texture Analysis with MTEX – Free and Open Source Software Toolbox*. Solid State Phenomena, 160, 63–68.
