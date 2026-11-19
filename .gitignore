@@ -1,3 +1,7 @@
 *.csv
 *.vtk
 __pycache__/
+venv/
+results/
+*.mat
+config.ini

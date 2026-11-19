@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use FiRST in your research, please cite this software using the metadata below."
+type: software
+title: "FiRST: Five-fold Rotational Symmetry Detection Tool"
+version: "1.0.0"
+date-released: "2026-11-19"
+license: GPL-3.0
+repository-code: "https://github.com/goswamisourav7/FiRST"
+url: "https://github.com/goswamisourav7/FiRST"
+authors:
+  - family-names: "Goswami"
+    given-names: "Sourav"
+    affiliation: "Department of Mechanical Engineering, Indian Institute of Technology Bombay, Mumbai 400076, Maharashtra, India"
+    orcid: "https://orcid.org/0009-0000-2403-4350"
+  - family-names: "Mishra"
+    given-names: "Sushil Kumar"
+    affiliation: "Department of Mechanical Engineering, Indian Institute of Technology Bombay, Mumbai 400076, Maharashtra, India"
+    orcid: "https://orcid.org/0000-0002-8302-0626"
+  - family-names: "Karagadde"
+    given-names: "Shyamprasad"
+    affiliation: "Department of Mechanical Engineering, Indian Institute of Technology Bombay, Mumbai 400076, Maharashtra, India"
+    orcid: "https://orcid.org/0000-0002-0184-8383"
